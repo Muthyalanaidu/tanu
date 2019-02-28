@@ -1,0 +1,13 @@
+module.exports=
+{
+    naidu:function(){
+        return("muthwaala");
+    }
+    ,
+    kanna:function(){
+        return("tanu")
+    },
+    vamsi:function(){
+        return("kadilya");
+    }
+}
